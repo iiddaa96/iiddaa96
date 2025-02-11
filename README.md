@@ -11,7 +11,6 @@ Aspiring Front-End Developer | Soon graduating and eager to build amazing user e
 ![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=flat) 
 ![Next JS ](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=flat) 
 ![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=flat) 
-![P5js](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=FFFFFF&style=flat)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=flat) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=flat) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=flat) 
