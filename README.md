@@ -21,4 +21,5 @@ Aspiring Front-End Developer | Soon graduating and eager to build amazing user e
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=flat) 
 
 
-https://codepen.io/iiddaa96
+
+- [CodePen](https://https://codepen.io/iiddaa96)
