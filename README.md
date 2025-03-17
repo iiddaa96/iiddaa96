@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a front-end developer who enjoys working with JavaScript, React, APIs, TypeScript, Prisma, and more. I value teamwork and am focused on creating high-quality web applications. I’m also passionate about design and user experience, and I like building websites that are both cool and easy to use. It’s exciting for me to see a website develop into something functional and visually appealing.
+I´m a front-end developer with a passion for design and user experience. I enjoy building websites that are not only cool and visually appealing but also intuitive and easy to use. I find it exciting to watch a website evolve from an idea to a fully functional, user-friendly product. Creating seamless engaging experiences is what motivates me and I’m always striving to improve both the design and functionality of the websites I work on.
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=flat) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=flat) 
