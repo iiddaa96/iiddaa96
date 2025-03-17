@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Aspiring Front-End Developer | Soon graduating and eager to build amazing user experiences. Passionate about crafting clean, efficient, and user-friendly web applications. Proficient in modern JavaScript frameworks and tools, including React, Next.js, and TypeScript. Excited to contribute to innovative projects and collaborate with talented teams.
+I’m a front-end developer who enjoys working with JavaScript, React, APIs, TypeScript, Prisma, and more. I value teamwork and am focused on creating high-quality web applications. I’m also passionate about design and user experience, and I like building websites that are both cool and easy to use. It’s exciting for me to see a website develop into something functional and visually appealing.
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=flat) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=flat) 
