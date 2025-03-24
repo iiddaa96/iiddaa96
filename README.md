@@ -19,6 +19,8 @@ I´m a front-end developer with a passion for design and user experience. I enjo
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=flat) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=flat) 
+![Git](https://https://img.shields.io/badge/git-%23121011.svg?logo=git&logoColor=white&style=flat)
+
 
 
 
